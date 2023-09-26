@@ -3,7 +3,7 @@
 🔭 I’m currently working on Food Delivery App<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Backend Development<br>
 
 
-## 🌐 Socials:
+## 🌐 Social Handles:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anushkapandeyyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/anushka-pandey) 
 
 # 💻 Tech Stack:
