@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Food Delivery App<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Backend Development<br>
+🌱 I’m currently learning ReactJS<br>💬 Ask me about Backend Development<br>
 
 
 ## 🌐 Social Handles:
