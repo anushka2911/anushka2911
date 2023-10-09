@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning ReactJS<br> 💬 Ask me about Backend Development<br>
+🌱 I’m currently learning ReactJS<br> 💬 Ask me about Backend Development.<br>
 
 
 ## 🌐 Social Handles:
