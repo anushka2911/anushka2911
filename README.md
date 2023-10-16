@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on [Munching](https://github.com/anushka2911/Munching)
 - 🌱 I’m currently learning **ReactJS**
 - 💬 Ask me about **Backend Development**
-- 📫 How to reach me **anushkap161@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1ZyokWfH8AlNs0chpyYcWauB1C_E1qfVg/view**
+- 📫 Up for formal conversation? Reach out at anushkap161@gmail.com
+- 📄 Know about my experiences **https://bento.me/anushkapandey**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/anushka-pandey-700a471b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/anushka2911" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
