@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/anushka2911/images/main/uploads/WhatsApp-Video-2023-10-14-at-21.42.51.gif" width='1400'></img>
 
 # 💫 About Me:
-🌱 I’m currently learning ReactJS <br>  💬 Ask me about Backend Development.<br>
+💬 Ask me about Backend Development.<br>
 
 
 
