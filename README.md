@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/anushka2911/images/main/uploads/WhatsApp-Video-2023-10-14-at-21.42.51.gif"  height='450' align='center' width='1000' background-color='red'> </img>
+<!-- <img src="https://raw.githubusercontent.com/anushka2911/images/main/uploads/WhatsApp-Video-2023-10-14-at-21.42.51.gif"  height='450' align='center' width='1000' background-color='red'> </img>
 
 <h1 align="center">Hi 👋, I'm Anushka </h1>
 
