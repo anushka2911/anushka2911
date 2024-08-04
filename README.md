@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Anushka </h1>
 
-
-- 🔭 I’m currently working on [Lucciano](https://github.com/anushka2911/lucciano)
-- 🌱 I’m currently learning **ReactJS**
 - 💬 Ask me about **Backend Development**
 - 📫 Up for formal conversation? Reach out at anushkap161@gmail.com
 - 📄 Know about my experience **https://bento.me/anushkapandey**
